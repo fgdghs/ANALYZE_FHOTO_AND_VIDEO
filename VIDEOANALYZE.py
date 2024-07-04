@@ -7,7 +7,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 import pathlib
 from deepface import DeepFace
-
+##Путь до папки с кадрами из видео
 path_to_photo = 'F:\\WOMEN'
 
 count_man = count_women = 0
